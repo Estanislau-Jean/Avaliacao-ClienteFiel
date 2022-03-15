@@ -1,0 +1,32 @@
+/* Arquivo destinado para a estilização dos componentes genéricos da calculadora como: 
+Div central, cabeçalho do site e botão para troca de sistema numérico */
+
+h1{
+    color: whitesmoke;
+}
+
+.calc{
+    background-color: black;
+    border-radius: 2em;
+    padding: 1em;
+    max-width: 335px;
+}
+
+.header{
+    text-align: center;
+    font-family: Verdana;
+    font-size: 1.2em;
+}
+
+.change{
+    width: 1em;
+    height: 1em;
+    font-size: 1em;
+    border: none;
+    border-radius: 2em;
+    background-color: darkslategrey;
+}
+
+.change:hover{
+    color:orange;
+}

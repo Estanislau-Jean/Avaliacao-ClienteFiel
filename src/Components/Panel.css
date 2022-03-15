@@ -1,0 +1,28 @@
+/* Arquivo destinado para a estilização do painel da calculadora */
+
+.resultPanel{
+    color: whitesmoke;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 0.2em;
+    font-size: 3em;
+    font-family: sans-serif;
+}
+
+.oldNumbers{
+    color: grey;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1.3em;
+    font-size: 2em;
+    font-family: sans-serif;
+}
+
+.system{
+    color: grey;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 0.5em;
+    font-size: 1em;
+    font-family: sans-serif;
+}

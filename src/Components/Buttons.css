@@ -1,0 +1,29 @@
+/* Arquivo destinado para a estilização dos botões utilizados na aplicação */
+
+.button{
+    width: 2.7em;
+    height: 2.7em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 2em;
+    margin: 0.3em;
+}
+
+.button:hover{
+    cursor: pointer;
+    background-color: orange;
+}
+
+.SMS{
+    width: 7.1em;
+    height: 2.7em;
+    font-size: 1.3em;
+    border: none;
+    margin: 0.3em;
+    border-radius: 2em;
+    background-color: green;
+}
+
+.SMS:hover{
+    cursor: pointer;
+}
